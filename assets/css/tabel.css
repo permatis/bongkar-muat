@@ -1,0 +1,23 @@
+body{
+    font-size: 13px;
+    font-family: Arial;
+}
+table {
+    border-collapse: collapse;
+    width: 600px;
+}
+th{
+    font-weight: bold;
+}
+td, th{
+    border: 1px solid #000;
+}
+tr{
+    height: 30px;
+}
+img{
+    height: 150px;
+}
+.nama-ttd{
+    font-weight: bold;
+}
